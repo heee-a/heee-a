@@ -1,10 +1,10 @@
 # 你好，我是 heee-a 👋
 
 **数据分析 · 后端开发 · AI 应用** 方向。这个账号是我的开源作品集：
-7 个仓库、100+ 自动化测试、全部 CI 通过；数据项目使用真实公开数据采集，
+8 个仓库、160+ 自动化测试、全部 CI 通过；数据项目使用真实公开数据采集，
 所有结论可一键复现。
 
-> Data analysis / backend / AI applications. 7 repos, 100+ tests,
+> Data analysis / backend / AI applications. 8 repos, 160+ tests,
 > every number in every README is reproducible from the code in the repo.
 
 ## 📂 作品集地图
@@ -18,6 +18,7 @@
 | [**bda-toolkit**](https://github.com/heee-a/bda-toolkit) | 数据分析工具箱 | pip 可安装：RFM / ABC / 留存 / 购物篮 / 一键 Excel 报告 |
 | [**yanyun-gradecalc**](https://github.com/heee-a/yanyun-gradecalc) | OCR 应用 | 拍照识别装备词条 → 斜拍校正配对算法 → 按流派计算毕业度 |
 | [**windsmeet-tools**](https://github.com/heee-a/windsmeet-tools) | 数据建模 | 心力/体力模拟与养成规划器 |
+| [**dataforge**](https://github.com/heee-a/dataforge) | 数据管道 / ETL | 水位线增量采集 → 星型数仓 → 质量门禁 → 自动日报，13 城真实数据全流程 |
 
 ## 🛠️ 技术栈
 
