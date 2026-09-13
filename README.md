@@ -31,6 +31,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 
+## ✨ 作品速览
+
+| ![六城月均温](https://raw.githubusercontent.com/heee-a/data-portfolio/main/projects/01_weather_cities/charts/monthly_temp.png) | ![Preston曲线](https://raw.githubusercontent.com/heee-a/data-portfolio/main/projects/03_world_indicators/charts/income_life.png) |
+|---|---|
+| [data-portfolio · 城市气象](https://github.com/heee-a/data-portfolio/tree/main/projects/01_weather_cities)：南北冬差 37℃ vs 夏差 13℃ | [data-portfolio · 世界指标](https://github.com/heee-a/data-portfolio/tree/main/projects/03_world_indicators)：收入-寿命 Preston 曲线 |
+| ![语言构成](https://raw.githubusercontent.com/heee-a/data-portfolio/main/projects/02_github_top/charts/language.png) | ![四季如春](https://raw.githubusercontent.com/heee-a/data-portfolio/main/projects/05_stats_inference/charts/test3_kunming.png) |
+| [data-portfolio · GitHub 画像](https://github.com/heee-a/data-portfolio/tree/main/projects/02_github_top)：Python 占 23%，AI 潮创诞生峰值 | [data-portfolio · 统计推断](https://github.com/heee-a/data-portfolio/tree/main/projects/05_stats_inference)：「四季如春」的统计验证 |
+
 ## ✨ 作品集的三条原则
 
 1. **真实**：所有数据来自公开 API 的真实采集（World Bank / GitHub /
