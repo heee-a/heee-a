@@ -1,17 +1,23 @@
 # 你好，我是 heee-a 👋
 
 **数据分析 · 数据工程 · 后端开发 · AI 应用** 方向。这个账号是一个
-有纪律的开源作品集：**9 个仓库、20+ 子项目、190+ 自动化测试、全部 CI 通过**；
+有纪律的开源作品集：**12 个仓库、20+ 子项目、225+ 自动化测试、全部 CI 通过**；
 数据项目使用真实公开数据采集，所有结论可由仓库内脚本一键复现。
 
 > Data analysis / data engineering / backend / AI applications.
-> 9 repos, 20+ sub-projects, 190+ automated tests, every number reproducible.
+> 12 repos, 20+ sub-projects, 225+ automated tests, every number reproducible.
+
+## 🌐 在线站点
+
+- [net-analysis-lab 结果页](https://heee-a.github.io/net-analysis-lab/) — 网络延迟实测 + CSMA/CD 建模，
+  页面由 `data/` 自动生成，没有一个手写数字
 
 ## 📂 作品集导览（按方向）
 
 ### 📊 数据分析
 | 仓库 | 亮点 |
 |---|---|
+| [**net-analysis-lab**](https://github.com/heee-a/net-analysis-lab) | 网络延迟的真实测量：跨语言中立 ICMP 采集（360 探针/6 目标）、Wilson 与 bootstrap 置信区间、RFC 3550 抖动、Shapiro-Wilk 正态检验；CSMA/CD 模型经三路验证（双实现逐位一致 / 与 ALOHA 精确理论误差 0.02% / 时隙记账守恒 1e-5） |
 | [**data-portfolio**](https://github.com/heee-a/data-portfolio) | 9 个采集→清洗→分析→结论全链路项目：17 城气象（39,456 天零缺失）、GitHub 仓库画像、世界指标面板、SQL、统计推断、文本挖掘、时序预测、双爬虫 |
 | [**bda-toolkit**](https://github.com/heee-a/bda-toolkit) | pip 可装的商用分析工具箱：RFM / ABC / 留存 / 购物篮 / 漏斗，一条命令 16 Sheet 报告 |
 
@@ -78,6 +84,7 @@
 
 | 日期 | 内容 |
 |---|---|
+| 2026-10 中 | 新增 net-analysis-lab（网络延迟实测 + CSMA/CD 可验证建模，35 项测试），并启用 GitHub Pages 结果页 |
 | 2026-09 中 | 新增 dataforge 数据管道实战（增量/幂等/质量门禁/日报） |
 | 2026-09 中 | dev-portfolio 扩至 5 类别 11 子项目（+JSON 解析器、限流器） |
 | 2026-09 中 | ml-bench +A/B 方法论、学习曲线；ai-lab +决策树从零、PyTorch 对照 |
